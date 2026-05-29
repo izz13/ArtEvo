@@ -1,0 +1,9 @@
+runpod
+torch
+transformers
+diffusers
+accelerate
+scipy
+pillow
+sentencepiece
+protobuf
